@@ -1,5 +1,5 @@
 p {
-  background-color: hwb(0 65% 9%);
+  background-color: rgb(232, 166, 166);
   font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
@@ -13,7 +13,7 @@ div {
 }
 
 .ancestor {
-  background-color: hwb(120 31% 10%);
+  background-color: #4fe54f;
   font-size: 24px;
   color: black;
   font-weight: bold;
