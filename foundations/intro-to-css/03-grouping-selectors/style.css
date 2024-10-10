@@ -1,0 +1,17 @@
+.One {
+  background-color: hwb(0 0% 100%);
+  color: #ffffff;
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+
+}
+
+.two {
+  background-color: hsl(60, 100%, 50%);
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.One, .two {
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+}
